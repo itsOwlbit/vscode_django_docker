@@ -25,7 +25,7 @@
 					"--nothreading",
 					"--noreload"
 				],
-				"file": "my_project/manage.py"
+				"file": "manage.py"
 			}
 		}
 	]
